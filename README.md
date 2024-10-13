@@ -6,9 +6,10 @@ Secrets is a simple Node.js and Express web application that reveals a hidden pa
 
 
 ## Table of Contents
+[Installation](#Installation)
 
 
 
 
 
-Installation [Link Text](#Table of Contents)
+## Installation 
