@@ -34,6 +34,13 @@ Secrets is a simple Node.js and Express web application that reveals a hidden pa
 
 ## File Structure
 
+* public/
+
+ ** index.html: The homepage where users enter the password.
+ ** secret.html: The hidden page displayed upon entering the correct password.
+
+* solution.js: The Node.js server that handles routing and password validation.
+
 ## Password
 
 
