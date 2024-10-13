@@ -41,6 +41,10 @@ Secrets is a simple Node.js and Express web application that reveals a hidden pa
 * solution.js: The Node.js server that handles routing and password validation.
 
 ## Password
-
+The password required to view the secrets is hardcoded in the application. To access the secret page, use the password:
+"ILoveProgramming"
 
 ## Technologies 
+* Node.js: JavaScript runtime environment.
+* Express: Web framework for Node.js.
+* Body-Parser: Middleware to handle form data in the request.
