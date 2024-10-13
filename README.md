@@ -6,10 +6,31 @@ Secrets is a simple Node.js and Express web application that reveals a hidden pa
 
 
 ## Table of Contents
- - [Installation](#Installation)
-
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [File Structure](#File Structure)
+- [Password](#Password)
+- [Technologies](#Technologies)
 
 
 
 
 ## Installation 
+
+1. Clone the repository
+    git clone <repository-url>
+2. Navigate to the project directory
+    cd Authentication-Demo
+3. install the required dependencies
+    npm i
+   
+
+## Usage
+
+
+## File Structure
+
+## Password
+
+
+## Technologies 
