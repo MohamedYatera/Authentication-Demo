@@ -18,14 +18,18 @@ Secrets is a simple Node.js and Express web application that reveals a hidden pa
 ## Installation 
 
 1. Clone the repository
-    * git clone <repository-url>
+    * git clone 
 3. Navigate to the project directory
     * cd Authentication-Demo
-5. install the required dependencies
+5. Install the required dependencies
     * npm i
    
 
 ## Usage
+1. Star the server (in terminal)
+   * node index.js or nodemon index.js
+2. Open your browser and go to http://localhost:3000
+3. Enter the password 'ILoveProgramming' on the homepage to access the hidden content.
 
 
 ## File Structure
