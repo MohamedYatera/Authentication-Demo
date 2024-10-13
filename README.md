@@ -8,7 +8,7 @@ Secrets is a simple Node.js and Express web application that reveals a hidden pa
 ## Table of Contents
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [File Structure](#File Structure)
+- [File Structure](#File-Structure)
 - [Password](#Password)
 - [Technologies](#Technologies)
 
