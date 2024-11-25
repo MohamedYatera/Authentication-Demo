@@ -48,3 +48,9 @@ The password required to view the secrets is hardcoded in the application. To ac
 * Node.js: JavaScript runtime environment.
 * Express: Web framework for Node.js.
 * Body-Parser: Middleware to handle form data in the request.
+
+
+![image](https://github.com/user-attachments/assets/ae321c11-b827-4da1-81af-face898fa1c1)
+![image](https://github.com/user-attachments/assets/91ca820f-4fb1-421c-bdc4-fda79be7b966)
+
+
